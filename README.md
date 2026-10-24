@@ -449,3 +449,8 @@ Ketiganya dapat diterapkan dalam berbagai bidang, termasuk robotika, sistem kend
 - [GCC — GNU Compiler Collection](https://gcc.gnu.org/)
 
 ---
+
+Kelompok 2:
+Manager: Nabilla Rachmadhani (101022300161)
+Developer 1: Wahyu Aksania Tazzaka Wijanarko (101022330025)
+Developer 2: Indah Natalia Nadeak (101022300167)
